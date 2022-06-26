@@ -1,6 +1,6 @@
 # Cookie RPG GUI
 
-This is my first attempt at creating a graphical user interface for my text adventure video game, Cookie RPG. I used the Tkinter library for Python to achieve this effect.
+This is my first attempt at creating a graphical user interface for my text-adventure video game, Cookie RPG. I used the Tkinter library for Python to achieve this effect.
 
 This game includes:
 * 2 buttons
